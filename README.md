@@ -1,5 +1,5 @@
 # 8C-PakAR-WawasanDanAplikasiTeknologi
-Repository ini memuat paper review bertema Implementasi AI di Media dan Hiburan: Peluang dan Tantangan, sebagai tugas akhir mata kuliah Wawasan dan Aplikasi Teknologi.
+Repository ini memuat paper review bertema Implementasi AI di Media dan Hiburan: Peluang dan Tantangan, sebagai Ujian Akhir Semester (UAS) mata kuliah Wawasan dan Aplikasi Teknologi.
 ## Judul Paper
 Implementasi AI di Media dan Hiburan: Peluang dan Tantangan
 ## Penulis
